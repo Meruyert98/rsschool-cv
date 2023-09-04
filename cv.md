@@ -1,1 +1,2 @@
-#Slamova Meruyert
+Slamova Meruyert
+Junior Frontend Developer
