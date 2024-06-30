@@ -21,6 +21,7 @@ Hello, I am Maruyert. Currently I am studying frontend development. I am familia
 - **Flask**
 - **FastAPI**
 - **Jenkins**
+- **Github actions**
 
 ## Code Example
 
